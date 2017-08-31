@@ -6,5 +6,4 @@
  */
 var isPalindrome = function(x) {
 
-    
 };

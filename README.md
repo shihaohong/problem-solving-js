@@ -40,3 +40,7 @@ Pseudocoding is EXTREMELY helpful with figuring out if your thought process is n
 Whiteboarding is another great tool when problem solving. Putting out your thoughts onto a physical medium can help you flush out your thoughts, especially when you frame it in multiple different ways. Whiteboarding can be used for drawing out visualizations of your problem, pseudocoding, and even simulating your problem. 
 
 For example, you can simulate a recursion solution on the whiteboard by out the call stacks for each recursive call and then tracing it back to see how your function would behave (try it with factorial!).
+
+## 6) Logging your progress
+
+When you're struggling with your solution despite feeling strongly that your logic is sound, well-placed console.logs can make or break your day. It takes one well-placed console.log to fix a very silly bug in your algorithm. Chrome Dev Tools.... watch statements, conditional breakpoints... 
