@@ -23,10 +23,13 @@ However, the goal is to instill these problem-solving strategies into you so tha
 
 Before starting the problem, listing out the input, output, constraints and edge cases (IOCE) of your problem will help frame the solution to your problem. 
 
-## 2) Using example cases(Simulation)
+## 2) Using example cases (Simulation)
 
 It can help you to imagine inserting certain inputs into your function and knowing the outputs to those inputs. This can help you visualize what work needs to happen within your function and help you come up with edge cases and constraints should you run into them. This step can help you refine your IOCE, and prevent you from coding up non-ideal solutions to your problem.
-example: add(1, 3) // 4; add(-4, -10) // -14
+
+example for the add function: 
+add(1, 3) // 4; 
+add(-4, -10) // -14
 
 ## 3) Brute Force
 
